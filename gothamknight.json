@@ -81,12 +81,7 @@
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
-        },{
-            "active" : "true",
-            "active_reward" : "true",
-            "name" : "spinner",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
-            "bg" : "#FB923C"
+        
         },{
             "active" : "true",
             "active_reward" : "false",
