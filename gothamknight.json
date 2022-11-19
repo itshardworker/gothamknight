@@ -39,29 +39,6 @@
         }
     ],
 
-    "quizquestions" : [
-        {
-            "questions" :
-            [
-                { "question" : "q1" },
-                { "question" : "q2" },
-                { "question" : "q3" }
-            ],
-            "answers" :
-            [
-                { "answer" : "a1" },
-                { "answer" : "a2" },
-                { "answer" : "a3" }
-            ],
-            "options" :
-            [
-                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
-                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
-                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
-            ]
-        }
-    ],
-
     "quizimages" : [
         {
             "images" :
