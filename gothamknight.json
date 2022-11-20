@@ -73,33 +73,33 @@
             "active" : "true",
             "active_reward" : "false",
             "name" : "Guide Tips",
-            "ico" : "",
-            "bg" : "#ca45ca"
+            "ico" : "https://www.dropbox.com/s/2pzsmw26oyl0kk6/guide.png?dl=1",
+            "bg" : "#9226e5"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "ico" : "https://www.dropbox.com/s/9pln66d37xmhxfg/puzzle.png?dl=1",
             "bg" : "#FBBF24"
         
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "ico" : "https://www.dropbox.com/s/3vkm70pp88xhzh6/scratch.png?dl=1",
             "bg" : "#38BDF8"
         
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "ico" : "https://www.dropbox.com/s/jhjencybe8gdya1/quiz.png?dl=1",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "ico" : "https://www.dropbox.com/s/80ud2csya2898a3/wallpaper.png?dl=1",
             "bg" : "#2196F3"
         },{
             "active" : "true",
