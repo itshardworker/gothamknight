@@ -87,32 +87,32 @@
             "active_reward" : "false",
             "name" : "scratch",
             "ico" : "https://www.dropbox.com/s/3vkm70pp88xhzh6/scratch.png?dl=1",
-            "bg" : "#38BDF8"
+            "bg" : "#cd1682"
         
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "quiz",
             "ico" : "https://www.dropbox.com/s/jhjencybe8gdya1/quiz.png?dl=1",
-            "bg" : "#4ADE80"
+            "bg" : "#e85708"
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "wallpapers",
             "ico" : "https://www.dropbox.com/s/80ud2csya2898a3/wallpaper.png?dl=1",
-            "bg" : "#2196F3"
+            "bg" : "#1a84d9"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "more",
             "ico" : "https://www.dropbox.com/s/n6f3sdyumepq37o/more.png?dl=1",
-            "bg" : "#3F51B5"
+            "bg" : "#dccb0d"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "games",
             "ico" : "https://www.dropbox.com/s/ho73arheee84wio/game.png?dl=1",
-            "bg" : "#673AB7"
+            "bg" : "#ea4308"
         }
     ],
     
