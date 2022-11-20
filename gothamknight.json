@@ -32,7 +32,7 @@
             "iron_banner" : "DefaultBanner",
             "iron_interstitial" : "DefaultInterstitial",
 
-            "main_ico": "https://pukhalskyivasyl209.github.io/tokens_tool/chest.png",
+            "main_ico": "https://www.dropbox.com/s/5akqx44utpzup8p/menu_icon.png?dl=1",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -73,7 +73,7 @@
             "active" : "true",
             "active_reward" : "false",
             "name" : "Guide Tips",
-            "ico" : "https://www.dropbox.com/s/2pzsmw26oyl0kk6/guide.png?dl=1",
+            "ico" : "",
             "bg" : "#9226e5"
         },{
             "active" : "true",
