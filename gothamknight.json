@@ -105,13 +105,13 @@
             "active" : "true",
             "active_reward" : "true",
             "name" : "more",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "ico" : "https://www.dropbox.com/s/n6f3sdyumepq37o/more.png?dl=1",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "games",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "ico" : "https://www.dropbox.com/s/ho73arheee84wio/game.png?dl=1",
             "bg" : "#673AB7"
         }
     ],
