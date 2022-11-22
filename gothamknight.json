@@ -6,7 +6,7 @@
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "0000000",
-            "network" : "admob",
+            "network" : "max",
 
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -137,22 +137,8 @@
             "name" : "Friday Night Video Call Funkin",
             "ico" : "https://www.dropbox.com/s/7s4b3ylpwl3gpen/friday%20video.png?dl=1",
             "link" : "https://play.google.com/store/apps/details?id=com.fridaynightfunkin.juleskeeling"
-       
-       },{
-            "name" : "",
-            "ico" : "",
-            "link" : ""
-           
-      },{
-            "name" : "",
-            "ico" : "",
-            "link" : ""
-          
-      },{
-            "name" : "",
-            "ico" : "",
-            "link" : ""
-      
+
+
         }
 
     ],
