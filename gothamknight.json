@@ -97,12 +97,6 @@
             "bg" : "#e85708"
         },{
             "active" : "true",
-            "active_reward" : "false",
-            "name" : "wallpapers",
-            "ico" : "https://www.dropbox.com/s/80ud2csya2898a3/wallpaper.png?dl=1",
-            "bg" : "#1a84d9"
-        },{
-            "active" : "true",
             "active_reward" : "true",
             "name" : "more",
             "ico" : "https://www.dropbox.com/s/n6f3sdyumepq37o/more.png?dl=1",
