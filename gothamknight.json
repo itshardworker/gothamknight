@@ -43,6 +43,7 @@
         {
             "images" :
             [
+                { "image" : "https://www.dropbox.com/s/73k3pqw38huj2y7/quize2.jpg?dl=1" },
                 { "image" : "https://www.dropbox.com/s/l69beirke68x0nr/quize1.jpg?dl=1" },
                 { "image" : "https://www.dropbox.com/s/73k3pqw38huj2y7/quize2.jpg?dl=1" },
                 { "image" : "https://www.dropbox.com/s/wo4qoeiceu6yvge/quize3.jpg?dl=1" },
@@ -55,10 +56,12 @@
                 { "answer" : "true" },
                 { "answer" : "true" },
                 { "answer" : "true" },
+                { "answer" : "true" },
                 { "answer" : "true" }
             ],
             "options" :
             [
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
