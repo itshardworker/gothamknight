@@ -52,7 +52,7 @@
             ],
             "answers" :
             [
-                { "answer" : "true" },
+                { "answer" : "tiguer" },
                 { "answer" : "true" },
                 { "answer" : "true" },
                 { "answer" : "true" },
@@ -61,7 +61,7 @@
             ],
             "options" :
             [
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "tiguer" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
@@ -643,7 +643,7 @@
             "img1" : "https://www.dropbox.com/s/klmsb1u7hhuqouw/2.png?dl=1",
             "img2" : "https://www.dropbox.com/s/klmsb1u7hhuqouw/2.png?dl=1",
             "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer.",
+            "part2" : "Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer.",
             "part3" : "2-Four Difficulties To Test :",
             "part4" : "Another great addition to the customization options in this game is that it allows players to switch characters at the home base. What’s even better is that these heroes level up alongside the player and loot is even acquired.",
             "part5" : "This makes it easy to test out which of the four characters fits best for the player’s preferred style of action. Most games like this force players to pick at the start and lock them in. Tiny Tina’s Wonderlands is a great recent example from 2022 that unfortunately does this. Gotham Knights is ahead of the game in this regard.",
